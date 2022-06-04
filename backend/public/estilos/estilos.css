@@ -1,0 +1,39 @@
+html,
+body {
+    height: 100vh; /* VIWERPORT */
+    width: 100vw;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(44, 43, 49);
+
+}
+
+
+header {
+    background-color: #E48E00;
+    height: 20vh;
+    
+}
+
+#corpo {
+    background-color: rgb(216, 213, 213);
+    height: 70vh;
+    text-align: center;
+    border: 0px solid rgb(124, 121, 121);
+}
+
+img {
+    width: 550px;
+}
+
+footer {
+    background-color: #00618A;
+    height: 10vh;
+    color:rgb(35, 34, 34);  /* COR DO TEXTO */
+    text-align: left;
+    font-size: 20px;
+}
+
+nav {
+    box-shadow: 2px 7px 15px rgba(0, 0, 0, 0.3);
+}
+
